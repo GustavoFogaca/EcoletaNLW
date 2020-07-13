@@ -1,2 +1,2 @@
-# Ecoleta_NLW
+# EcoletaNLW
 Projeto Ecoleta da Semana NLW
